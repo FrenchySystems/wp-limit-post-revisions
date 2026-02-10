@@ -33,5 +33,4 @@ GPL-2.0-or-later
 ## Author
 
 Developed by Frenchy  
-https://frenchy.es
-
+https://frenchy.es/plugins/
