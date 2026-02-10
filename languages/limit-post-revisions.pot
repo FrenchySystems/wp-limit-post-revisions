@@ -1,0 +1,4 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Limit Post Revisions\n"
+"POT-Creation-Date: 2026-01-19 00:00+0000\n"
